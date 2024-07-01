@@ -18,3 +18,4 @@ Make sure you have the following installed on your machine:
    ```sh
    git clone https://github.com/your-username/nodejs-backend.git
    cd s-projet-api
+   yarn && yarn start
